@@ -1,6 +1,7 @@
 # SALES DASHBOARD OF YEAR 2020-22
 
-![Sales Dashboard](25c4795b-1ef1-4703-9aed-3c282331fb52.png)
+![Sales Dashboard] <img width="1188" height="668" alt="Screenshot 2026-05-18 231651" src="https://github.com/user-attachments/assets/0d2b322d-baa0-4dc3-977a-ea137b93588a" />
+
 
 ## Project Overview
 
