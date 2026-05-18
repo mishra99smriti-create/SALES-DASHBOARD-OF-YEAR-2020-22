@@ -1,10 +1,79 @@
-# Power BI Sales Dashboard Project
+# SALES DASHBOARD OF YEAR 2020-22
 
-## Overview
+![Sales Dashboard](25c4795b-1ef1-4703-9aed-3c282331fb52.png)
 
-This project is a Sales Dashboard created using Power BI to analyze sales performance, product categories, transactions, and supervisor-wise quantity distribution. The dashboard provides interactive visualizations and business insights using sales data.
+## Project Overview
 
-## Dataset Columns
+This project is an interactive Sales Dashboard created using Power BI to analyze sales performance for the years 2020–2022. The dashboard provides insights into total sales, quantity sold, transaction count, category performance, brand contribution, and state-wise sales distribution.
+
+The dashboard helps businesses understand product demand, sales trends, and supervisor performance through visual analytics.
+
+---
+
+# Dashboard Example & Explanation
+
+The above dashboard contains multiple visualizations and KPI cards that help in analyzing the sales data effectively.
+
+## 1. KPI Cards
+
+The right-side KPI cards display important business metrics:
+
+* **18M Total Sales** → Total revenue generated
+* **14M Total Cost** → Overall product cost
+* **2304 Total Quantity** → Total products sold
+* **948 Transactions** → Total number of orders processed
+
+These KPIs provide a quick overview of overall business performance.
+
+---
+
+## 2. Category-wise Quantity (Bar Chart)
+
+The bar chart shows product category quantity sold.
+
+### Insights:
+
+* Monitor and Mouse categories have the highest quantity sold.
+* Printer and Motherboard categories have lower sales quantity.
+* Helps identify high-demand and low-demand product categories.
+
+---
+
+## 3. State-wise Sales (Map Visualization)
+
+The map visualization displays total sales across different states.
+
+### Insights:
+
+* Helps identify regions generating higher sales.
+* Useful for regional sales analysis and market planning.
+
+---
+
+## 4. Total Sales by Brand (Pie Chart)
+
+The pie chart represents brand contribution to total sales.
+
+### Insights:
+
+* Intel and Samsung contribute the highest sales percentage.
+* Other brands such as Nvidia, Dell, Acer, and Gigabyte also contribute significantly.
+* Helps compare brand performance in the market.
+
+---
+
+## 5. Supervisor Panel
+
+The left-side panel contains supervisors with profile images.
+
+### Purpose:
+
+* Allows filtering dashboard data supervisor-wise.
+* Helps analyze quantity and sales handled by each supervisor.
+
+---
+
+# Dataset Columns
 
 * Order_Number
 * State_Code
@@ -21,34 +90,32 @@ This project is a Sales Dashboard created using Power BI to analyze sales perfor
 * Total_Sales
 * Assigned Supervisor
 
-## Dashboard Features
+---
 
-* Pie Chart for category distribution
-* Map visualization for state-wise sales analysis
-* Bar Graph for category-wise quantity by supervisor
-* Total Sales calculation
-* Total Quantity calculation
-* Total Cost calculation
-* Transaction count analysis
-* State-wise sales performance
-
-## Tools & Technologies Used
+# Tools & Technologies Used
 
 * Power BI
 * Data Visualization
+* DAX
 * Data Cleaning
-* DAX Calculations
+* Business Intelligence
 
-## Key Insights
+---
 
-* Identified high-performing states based on total sales
-* Analyzed supervisor-wise category quantity
-* Compared total cost and total sales
-* Monitored transaction performance across products and categories
+# Key Features
 
-## Project Objective
+* Interactive dashboard
+* Dynamic filtering
+* KPI analysis
+* Brand performance tracking
+* Category-wise sales analysis
+* State-wise sales visualization
+* Supervisor-wise analysis
 
-The objective of this project is to transform raw sales data into meaningful business insights using interactive dashboards and visual analytics in Power BI.
+---
 
+# Project Objective
+
+The objective of this project is to convert raw sales data into meaningful business insights using interactive visualizations and dashboard reporting in Power BI.
 
 
